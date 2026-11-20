@@ -1,0 +1,176 @@
+{
+  "requests": [
+    {
+      "request": "hey there",
+      "reply": "Hi ! How are you ?"
+    },
+    {
+      "request": "hi",
+      "reply": " Hi ! How are you ?    "
+    },
+    {
+      "request": "hello",
+      "reply": " Hi ! How are you ?    "
+    },
+    {
+      "request": "how are you",
+      "reply": "I'm fine ! How can I help you today ?"
+    },
+    {
+      "request": "good morning",
+      "reply": "Good morning ! How are you ?"
+    },
+    {
+      "request": "im fine",
+      "reply": "That's great to hear ! How can I help you today ?"
+    },
+    {
+      "request": "something about gizmo geeks",
+      "reply": "Understanding the need for inclusiveness and innovation in education, Lilavatibai Podar High School, ISC launched their very own school-fest. They chose technology as the underlying theme in 2006 and the legend of Gizmo Geeks began!"
+    },
+    {
+      "request": "why was gizmo geeks",
+      "reply": "Since its inception, our mega tech fest has grown to include participants from over 40 AISM schools across the city. The fest, which is in its 18th edition, was initiated to commemorate the memory of our founder Shri Ganesh Podar and consists of events that blend technology with pedagogy and challenge learners to ideate, create and innovate."
+    },
+    {
+      "request": "eligible in sub juniors category",
+      "reply": "H1"
+    },
+    {
+      "request": "sub juniors category",
+      "reply": "Sure ! Here are the instructions \n Event 1 - Animate Your Art \n Event 2 - Light It Up \n Event 3 - A Problem Algorithm \n Event 4 - Visual Wonders"
+    },
+    {
+      "request": "instructions for animate your art",
+      "reply": "Sure ! Here are the instructions \n 1. Download the app on the device \n 2. Participants will create a ONE MINUTE animation using the app frame by frame on the topic provided during the event.\n 3. Submission will be a video in the mp4 format via a Drive Link"
+    },
+    {
+      "request": "instruction for animate your art",
+      "reply": "Sure ! Here are the instructions \n 1. Download the app on the device \n 2. Participants will create a ONE MINUTE animation using the app frame by frame on the topic provided during the event.\n 3. Submission will be a video in the mp4 format via a Drive Link"
+    },
+    {
+      "request": "instructions for light it up",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Tinkercad using the option \u201cSign-up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participant will login to the class created by the teacher incharge and work on the circuit to create an interesting lightshow \n 3. Submissions will be to the class directly"
+    },
+    {
+      "request": "instruction for light it up",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Tinkercad using the option \u201cSign-up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participant will login to the class created by the teacher incharge and work on the circuit to create an interesting lightshow \n 3. Submissions will be to the class directly"
+    },
+    {
+      "request": "instructions for a problem algorithm",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Scratch Jr using the option\u201cSign up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participants will create a program to solve a mathematical problem by coding it. \n 3. Submission will be via a Drive Link using the login credentials provided by the school"
+    },
+    {
+      "request": "instruction for a problem algorithm",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Tinkercad using the option \u201cSign-up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participant will login to the class created by the teacher incharge and work on the circuit to create an interesting lightshow \n 3. Submissions will be to the class directly"
+    },
+    {
+      "request": "instructions for problem algorithm",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Scratch Jr using the option\u201cSign up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participants will create a program to solve a mathematical problem by coding it. \n 3. Submission will be via a Drive Link using the login credentials provided by the school"
+    },
+    {
+      "request": "instruction for problem algorithm",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Tinkercad using the option \u201cSign-up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participant will login to the class created by the teacher incharge and work on the circuit to create an interesting lightshow \n 3. Submissions will be to the class directly"
+    },
+    {
+      "request": "instructions for visual wonders",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Canva using the option\u201cSign-up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participants will create a video story on the theme provided that is replete with all the elements of a story and is a visual wonder to behold. \n 3. Submission will be in the form of an mp4 using the login credentials provided by the school."
+    },
+    {
+      "request": "instruction for visual wonders",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Canva using the option\u201cSign-up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participants will create a video story on the theme provided that is replete with all the elements of a story and is a visual wonder to behold. \n 3. Submission will be in the form of an mp4 using the login credentials provided by the school."
+    },
+    {
+      "request": "instructions for visual wonder",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Canva using the option\u201cSign-up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participants will create a video story on the theme provided that is replete with all the elements of a story and is a visual wonder to behold. \n 3. Submission will be in the form of an mp4 using the login credentials provided by the school."
+    },
+    {
+      "request": "instruction for visual wonder",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have to sign-up to Canva using the option\u201cSign-up with Google\u201dand use the .....@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participants will create a video story on the theme provided that is replete with all the elements of a story and is a visual wonder to behold. \n 3. Submission will be in the form of an mp4 using the login credentials provided by the school."
+    },
+    {
+      "request": "instructions for app innovator",
+      "reply": "Sure ! Here are the instructions \n 1. Participant will have to sign-up to code.org using the option \u201cSign-up with Google\u201dand use the..@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participant will design an app on the topic given."
+    },
+    {
+      "request": "instruction for app innovator",
+      "reply": "Sure ! Here are the instructions \n 1. Participant will have to sign-up to code.org using the option \u201cSign-up with Google\u201dand use the..@lilavatibaipodarschool.com login id provided by the school for this event \n 2. Participant will design an app on the topic given."
+    },
+    {
+      "request": "instructions for sheets and shenanigans",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will sign in using the \u201c...@lilavatibaipodarschool.com\u201d login ids provided by the school for the event \n 2. Create a monopoly style game on the theme given using Google Sheets formulae and macros \n 3. Formulae and Design will be checked minutely \n 4. The theme and surprise elements will be revealed on the day of the event."
+    },
+    {
+      "request": "instruction for sheets and shenanigans",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will sign in using the \u201c...@lilavatibaipodarschool.com\u201d login ids provided by the school for the event \n 2. Create a monopoly style game on the theme given using Google Sheets formulae and macros \n 3. Formulae and Design will be checked minutely \n 4. The theme and surprise elements will be revealed on the day of the event."
+    },
+    {
+      "request": "instructions for 3d blends",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have downloaded Blender on their devices in preparation for the event. \n 2. Participant will design a 3 - D object on given topic using the different tools available"
+    },
+    {
+      "request": "instruction for 3d blends",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will have downloaded Blender on their devices in preparation for the event. \n 2. Participant will design a 3 - D object on given topic using the different tools available"
+    },
+    {
+      "request": "instructions for dont get hyper, link it",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will sign in using the \u201c...@lilavatibaipodarschool.com\u201d login ids provided by the school for the event \n 2. Participants will use Google Slides to create a quiz style game with hyperlinks to other slides ensuring their design, buttons, questions etc match the theme given \n 3.Submission will be via a shared link to the email id provided"
+    },
+    {
+      "request": "instruction for dont get hyper link it",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will sign in using the \u201c...@lilavatibaipodarschool.com\u201d login ids provided by the school for the event \n 2. Participants will use Google Slides to create a quiz style game with hyperlinks to other slides ensuring their design, buttons, questions etc match the theme given \n 3.Submission will be via a shared link to the email id provided"
+    },
+    {
+      "request": "instructions for ai animators",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will create a script in https://gravitywrite.com/ using it as an AI tool. \n 2. Participant will use https://www.steve.ai/ to create an animated video with their script \n 3. Participants will edit the video using different characters, actions, changing the position of character, voiceover, music, using format tools etc. to ensure a perfect video is created \n 4. Participants will download the video for judging. \n 5. The theme and topic will be provided on the day of the event."
+    },
+    {
+      "request": "instruction for ai animators",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will create a script in https://gravitywrite.com/ using it as an AI tool. \n 2. Participant will use https://www.steve.ai/ to create an animated video with their script \n 3. Participants will edit the video using different characters, actions, changing the position of character, voiceover, music, using format tools etc. to ensure a perfect video is created \n 4. Participants will download the video for judging. \n 5. The theme and topic will be provided on the day of the event."
+    },
+    {
+      "request": "instructions for fit fluencer",
+      "reply": "Sure ! Here are the instructions \n 1. Create an Instagram page with 15 posts including a 9 post grid layout for an influencer on the theme provided \n 2. Create an endorsement advert of 30 seconds + 1 post in carousel format on the topic provided which matches the aesthetic of your page. It must match aesthetics and layout as well as must have an SEO friendly caption and hashtags - This topic will be given at the halftime mark."
+    },
+    {
+      "request": "instruction for fit fluencer",
+      "reply": "Sure ! Here are the instructions \n 1. Create an Instagram page with 15 posts including a 9 post grid layout for an influencer on the theme provided \n 2. Create an endorsement advert of 30 seconds + 1 post in carousel format on the topic provided which matches the aesthetic of your page. It must match aesthetics and layout as well as must have an SEO friendly caption and hashtags - This topic will be given at the halftime mark."
+    },
+    {
+      "request": "instructions for ide evaluator",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will create an Integrated development environment as Canvas \n 2. Participants will download the software as spyder the Scientific Python Development Environment https://www.spyder-ide.org/. \n 3.Participants will create the environment as Canvas using python code. \n 4. Participants will code to create different tools which will help to draw with different colour. \n 5. Participants will present the IDE for judging."
+    },
+    {
+      "request": "instruction for ide evaluators",
+      "reply": "Sure ! Here are the instructions \n 1. Participants will create an Integrated development environment as Canvas \n 2. Participants will download the software as spyder the Scientific Python Development Environment https://www.spyder-ide.org/. \n 3.Participants will create the environment as Canvas using python code. \n 4. Participants will code to create different tools which will help to draw with different colour. \n 5. Participants will present the IDE for judging."
+    },
+    {
+      "request": "instructions for ai chatbot",
+      "reply": "Sure ! Here are the instructions \n 1. Participants have to develop an AI chatbot that can engage in any conversation with users about a given topic \n 2. Participants will present their work to the judges. \n 3. Response Time, Accuracy, Robustness & Error Handling will be judged"
+    },
+    {
+      "request": "instruction for ai chatbot",
+      "reply": "Sure ! Here are the instructions \n 1. Participants have to develop an AI chatbot that can engage in any conversation with users about a given topic \n 2. Participants will present their work to the judges. \n 3. Response Time, Accuracy, Robustness & Error Handling will be judged"
+    },
+    {
+      "request": "duration for ai chatbot",
+      "reply": "Participant will be provided 150 minutes for this event"
+    },
+    {
+      "request": "duration for ide evaluators",
+      "reply": "Participant will be provided 120 minutes for this event"
+    },
+    {
+      "request": "duration for fit fluencer",
+      "reply": "Participant will be provided 120 minutes for this event"
+    },
+    {
+      "request": "duration for ai chatbot",
+      "reply": "Participant will be provided 150 minutes for this event"
+    },
+    {
+      "request": "Is this project documented on GitHub?",
+      "reply": "Yes! This demo is also part of the documentation!"
+    }
+  ]
+}
